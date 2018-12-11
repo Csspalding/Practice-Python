@@ -112,7 +112,7 @@ The bitwise AND (&) operator compares two numbers on a bit level and returns
 1 & 0 = 0
 1 & 1 = 1
 '''
-0b111 (7) & 0b1010 (10) # results in 0b10
+#0b111 (7) & 0b1010 (10) # results in 0b10
 #   a   0111
 #   b   1010
 #gives  0010
@@ -157,7 +157,7 @@ Note that XOR-ing a number with itself will always result in 0.
 1 ^ 0 = 1
 1 ^ 1 = 0
 '''
-111 (7) ^ 1010 (10) = 1101 (13)
+#111 (7) ^ 1010 (10) = 1101 (13)
 #give the binary string for 0b1110 ^ 0b101
 #        1110
 #        0101
